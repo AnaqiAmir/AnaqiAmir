@@ -2,7 +2,9 @@
 
 I'm a recent university graduate actively seeking opportunities in data science, data analysis, or data engineering roles.
 
-I’m currently working on a Book Recommendation System
+I’m currently working on:
+ - Book Recommendation System📚
+ - NBA Games Prediction🏀
 
 ## Skills
 
@@ -20,13 +22,9 @@ I’m currently working on a Book Recommendation System
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-**Tools and Technologies**
-
 ### Contact
 - ✉️ Email: anaqi.amirrazif@gmail.com
 - 👔 LinkedIn: www.linkedin.com/in/anaqi-amir
-- <!-- Website: --> 
-
 
 
 <!--
