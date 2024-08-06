@@ -3,8 +3,8 @@
 I'm a recent university graduate actively seeking opportunities in data science, data analysis, or data engineering roles.
 
 I’m currently working on:
- - Book Recommendation System📚
  - NBA Games Prediction🏀
+ - Learning Tableau📊
 
 ## Skills
 
