@@ -25,6 +25,7 @@ I’m currently working on:
 ### Contact
 - ✉️ Email: anaqi.amirrazif@gmail.com
 - 👔 LinkedIn: www.linkedin.com/in/anaqi-amir
+- 📊 Tableau: [anaqi.amir](https://public.tableau.com/app/profile/anaqi.amir/vizzes)
 
 
 <!--
