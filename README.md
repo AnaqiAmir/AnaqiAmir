@@ -3,7 +3,7 @@
 I'm a recent university graduate actively seeking opportunities in data science, data analysis, or data engineering roles.
 
 I’m currently working on:
- - NBA Games Prediction🏀
+ - FlavorFusion🌮: An AI-powered recipe recommender.
  - Learning Tableau📊
 
 ## Skills
